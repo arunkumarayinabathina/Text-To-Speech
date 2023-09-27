@@ -16,6 +16,6 @@
 
 <a href="https://www.instagram.com/_arun_kumar.6/"><img src="https://img.shields.io/badge/Follow%20on%20Instagram-%40ARUN-orange" /></a>
 <br>
-<a href="https://arunkumarayinabathina.github.io/Text-To-Speech/app.html"><img src="https://img.shields.io/badge/Chrome-%40Calculator-blue" /></a>
+<a href="https://arunkumarayinabathina.github.io/Text-To-Speech/app.html"><img src="https://img.shields.io/badge/Chrome-%40TEXT TO SPEECH-blue" /></a>
 
 
